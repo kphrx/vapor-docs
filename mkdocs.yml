@@ -249,13 +249,46 @@ plugins:
         ja:
           Welcome: ようこそ
           Install: インストール
+          Hello, world: プロジェクトの作成
+          Folder Structure: フォルダ構造
           Getting Started: はじめに
           Basics: 基礎
+          Routing: ルーティング
+          Controllers: コントローラ
+          Content: コンテンツ
+          Client: クライアント
+          Validation: バリデーション
+          Async: 非同期処理
+          Logging: ロギング
+          Environment: 環境
+          Errors: エラー
+          Overview: 概要
+          Model: モデル
+          Relations: 関係
+          Migrations: マイグレーション
+          Query: クエリ
+          Transactions: トランザクション
+          Schema: スキーマ
+          Custom Tags: カスタムタグ
           Advanced: 上級
+          Middleware: ミドルウェア
+          Testing: テスト
+          Server: サーバー
+          Files: ファイル
+          Commands: コマンド
+          Queues: キュー
+          Sessions: セッション
+          Services: サービス
           Security: セキュリティ
+          Authentication: 認証
+          Crypto: 暗号化
+          Passwords: パスワード
           Deploy: デプロイ
           Contributing: 貢献する
+          Contributing Guide: 貢献ガイド
           Version (4.0): バージョン 4.0
+          Legacy Docs: 旧ドキュメント
+          Upgrading: アップグレード
           Release Notes: リリースノート
 
 
