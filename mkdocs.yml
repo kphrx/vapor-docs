@@ -93,6 +93,10 @@ plugins:
           name: German
           site_name: Vapor Dokumentation
           build: true
+        ja:
+          name: 日本語
+          site_name: Vaporドキュメント
+          build: true
       # Add navigation translations here
       nav_translations:
         nl:
@@ -242,6 +246,17 @@ plugins:
           Contributing: 贡献
           Contributing Guide: 贡献指南
           Version (4.0): 版本 (4.0)
+        ja:
+          Welcome: ようこそ
+          Install: インストール
+          Getting Started: はじめに
+          Basics: 基礎
+          Advanced: 上級
+          Security: セキュリティ
+          Deploy: デプロイ
+          Contributing: 貢献する
+          Version (4.0): バージョン 4.0
+          Release Notes: リリースノート
 
 
 nav:
